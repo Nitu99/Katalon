@@ -31,5 +31,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/webapp/Page_Amazon Sign
 
 WebUI.click(findTestObject('Object Repository/webapp/Page_Amazon Sign In/input_Enter your password_signInSubmit'))
 
-WebUI.closeBrowser()
-
